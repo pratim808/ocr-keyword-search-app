@@ -18,3 +18,17 @@ To run this project, you will need the following libraries installed:
 easyocr
 streamlit
 Pillow
+
+##You can install these dependencies using pip:
+
+pip install -r requirements.txt
+
+##Project Structure
+
+/OCR-Document-Search-App
+│
+├── app.py              # Main application file
+├── ocr_utils.py        # Utility functions for OCR processing
+└── requirements.txt     # List of required libraries
+
+
