@@ -19,11 +19,11 @@ easyocr
 streamlit
 Pillow
 
-##You can install these dependencies using pip:
+## You can install these dependencies using pip:
 
 pip install -r requirements.txt
 
-##Project Structure
+## Project Structure
 
 /OCR-Document-Search-App
 │
