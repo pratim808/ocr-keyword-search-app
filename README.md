@@ -18,6 +18,7 @@ To run this project, you will need the following libraries installed:
 easyocr
 streamlit
 Pillow
+```plaintext
 
 ## You can install these dependencies using pip:
 
